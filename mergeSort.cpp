@@ -54,7 +54,6 @@ void mergeSort(int A[], int begin, int end){
 
 int main(int argc, char** argv) {
 	int n=20;
-	int k=0;
 	int arr[n];
 	srand(time(0));
 	cout << "Array is\n";
